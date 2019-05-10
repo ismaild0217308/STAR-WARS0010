@@ -2,12 +2,12 @@ import java.util.Scanner;
 
 //NAMA : ISMAIL UMAR
 //NIM  : D0217308
-//KELAS: INF0RMATIKA. A 2017
+//KELAS: INFORMATIKA. A 2017
 public class STARWARS0010 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		System.out.print("Masukin Angka : ");
+		System.out.println("INPUT");
 		int a = sc.nextInt();
 		
 		for (int i = 0; i < a; i++){
