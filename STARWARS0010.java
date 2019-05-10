@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 //NAMA : ISMAIL UMAR
 //NIM  : D0217308
-//KELAS: INFPRMATIKA. A 2017
+//KELAS: INF0RMATIKA. A 2017
 public class STARWARS0010 {
 
 	public static void main(String[] args) {
